@@ -1,0 +1,13 @@
+Steps to Install UNCTRL Video Drivers
+
+Presetup
+  1. Disconnect Computer From Internet (Prevents NVIDIA driver from reinstalling)
+  2. Go into Device Manager.
+  3. Go to "GTX xxx" under display adapters and click uninstall and delete drivers when prompted.
+  4. Restart Your Computer
+Install
+  5. Click on UNCTRLsetup-vxxx.exe (xxx is a version number)
+  6. Run as administrator.
+  7. Wait for the computer to finish installing
+  8. Restart.
+  9. Test Video Drivers and Write Down Results. Send them in Issues if there is a problem.
